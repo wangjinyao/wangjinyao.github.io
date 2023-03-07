@@ -1,3 +1,3 @@
-# wangjinyao.github.io
+# 王金耀
 
 [简历](./resume)
